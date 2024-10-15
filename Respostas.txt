@@ -1,0 +1,12 @@
+4-)a-)9
+   b-)128
+   c-)49
+   d-)100
+   e-)13
+   f-)20
+5-)Assumindo um interruptor A, B e C para lâmpadas 1, 2 e 3. Eu deixaria o interruptor B ligado, e após um tempo, o desligaria. Em seguida, deixaria o interruptor
+A ligado. Sendo assim, iria para a sala 3. Se a lâmpada da sala 3 estivesse acessa, saberia que o interruptor A pertence à sala 3, usando uma de minhhas idas. Após isso, 
+prosseguiria para a sala 2. Se a lâmpada estivesse fria, saberia que este interruptor nunca teria sido ligado, o que significa que o interruptor C pertence a esta sala, pois
+saberia que esta lâmpada não teria sido ligada, gastando minha segunda ida. Sendo assim, levando em consideração os dois casos anteriores, só poderia significar que o interruptor
+B pertence à sala 1, pois como deixei o interruptor ligado por um tempo, a lâmpada ficaria acessa por tempo uficiente para que ela ficasse quente, e como em uma sala a 
+lâmpada está acessa e na outra sala a lâmpada está fria, a distribuição seria: Interruptor A - sala 3; Interruptor B - sala 1; Interruptor C - sala 2.
